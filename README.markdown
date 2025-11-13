@@ -166,8 +166,8 @@ The model achieves the following performance (example metrics, replace with your
 
 Check `depression_detection.log` for detailed metrics and `bert_confusion_matrix.png` for the confusion matrix. SHAP visualizations provide insights into token-level contributions to predictions.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<!-- ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
 <!-- ## Citation
 If you use this code in your research, please cite our paper:
@@ -176,4 +176,4 @@ If you use this code in your research, please cite our paper:
 ``` -->
 
 ## Contact
-For questions or issues, please open a GitHub issue or contact [vishnutripathi.ai@example.com].
+For questions or issues, please open a GitHub issue or contact [vishnutripathi.ai@gmail.com].
