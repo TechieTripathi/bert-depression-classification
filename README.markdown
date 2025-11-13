@@ -169,11 +169,11 @@ Check `depression_detection.log` for detailed metrics and `bert_confusion_matrix
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Citation
+<!-- ## Citation
 If you use this code in your research, please cite our paper:
 ```
 [Your Name(s)]. (2025). "BERT-Based Depression Severity Classification from Social Media Text." In *Proceedings of AIHW 2025 IEEE, Hyderabad*.
-```
+``` -->
 
 ## Contact
-For questions or issues, please open a GitHub issue or contact [your-email@example.com].
+For questions or issues, please open a GitHub issue or contact [vishnutripathi.ai@example.com].
